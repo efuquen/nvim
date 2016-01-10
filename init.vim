@@ -41,7 +41,7 @@ Plug 'rust-lang/rust.vim'
 Plug 'racer-rust/vim-racer'
 Plug 'honza/vim-snippets'
 Plug 'sirver/ultisnips'
-Plug 'shougo/deoplete.nvim'
+Plug 'valloric/youcompleteme'
 call plug#end()
 
 " ========
